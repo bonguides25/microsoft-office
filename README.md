@@ -13,7 +13,7 @@ Use the script with PowerShell (Terminal)
 ```
 
 ## Features
-![App Screenshot]([https://github.com/bonguides25/microsoft-office/blob/main/files/images.png?raw=true](https://github.com/bonguides25/microsoft-office/blob/main/files/install_officebg.png?raw=true))
+![App Screenshot](https://github.com/bonguides25/microsoft-office/blob/main/files/install_officebg.png?raw=true)
 - Supports the installation of all Microsoft Office editions (Office 2013 and later).
 - Supports downloading and installing both 32-bit and 64-bit versions of Office.
 - Allows downloading Microsoft Office for installation on other computers.
